@@ -1,0 +1,28 @@
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.exe
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.deps.json
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.runtimeconfig.json
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.dll
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.pdb
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.dll
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\obj\Debug\net8.0\refint\dsa exercise2.dll
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.pdb
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise2\dsa exercise2\obj\Debug\net8.0\ref\dsa exercise2.dll
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.exe
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.deps.json
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.runtimeconfig.json
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.dll
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\bin\Debug\net8.0\dsa exercise2.pdb
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.dll
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\obj\Debug\net8.0\refint\dsa exercise2.dll
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.pdb
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\obj\Debug\net8.0\dsa exercise2.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\week 1_Data Structures & Algorithms\dsa exercise2\dsa exercise2\obj\Debug\net8.0\ref\dsa exercise2.dll

@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\bin\Debug\net8.0\dsa exercise3.exe
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\bin\Debug\net8.0\dsa exercise3.deps.json
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\bin\Debug\net8.0\dsa exercise3.runtimeconfig.json
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\bin\Debug\net8.0\dsa exercise3.dll
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\bin\Debug\net8.0\dsa exercise3.pdb
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\obj\Debug\net8.0\dsa exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\obj\Debug\net8.0\dsa exercise3.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\obj\Debug\net8.0\dsa exercise3.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\obj\Debug\net8.0\dsa exercise3.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\obj\Debug\net8.0\dsa exercise3.dll
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\obj\Debug\net8.0\refint\dsa exercise3.dll
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\obj\Debug\net8.0\dsa exercise3.pdb
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\obj\Debug\net8.0\dsa exercise3.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\BN 4.0\week 1\dsa exercise3\dsa exercise3\obj\Debug\net8.0\ref\dsa exercise3.dll
