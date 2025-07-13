@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "SwaggerDemoAPI.Controllers.AuthController",
+    "Method": "GetToken",
+    "RelativePath": "api/Auth/token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YourNamespace.Controllers.EmployeeController",
+    "Method": "GetAll",
+    "RelativePath": "api/Employee/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
